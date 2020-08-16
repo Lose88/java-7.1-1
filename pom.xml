@@ -63,7 +63,7 @@
                                 <rule>
                                     <limits>
                                         <limit>
-                                            <counter>INSTRUCTION</counter>
+                                            <counter>BRANCH</counter>
                                             <minimum>100%</minimum>
                                         </limit>
                                     </limits>
